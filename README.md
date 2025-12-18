@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">👋 Hi! I'm Rayen Zahzeh<br><br>I’m an embedded engineering student passionate about building things that live in the real world.<br>My work spans embedded systems, PCB design, 3D modeling, and increasingly AI-driven hardware — turning ideas into functional solutions.<br><br>💡 I enjoy:<br><br>Designing and programming embedded systems<br><br>Creating custom PCBs<br><br>Modeling and prototyping parts in 3D<br><br>Exploring how AI can enhance robotics, automation, and smart devices<br><br>🔧 Tech interests:<br>Microcontrollers • IoT • Electronics • CAD • Rapid Prototyping • Edge AI<br><br>🚀 Always learning, always building</h2>
+<h3 align="left">👋 Hi! I'm Rayen Zahzeh<br><br>I’m an embedded engineering student passionate about building things that live in the real world.<br>My work spans embedded systems, PCB design, 3D modeling, and increasingly AI-driven hardware — turning ideas into functional solutions.<br><br>💡 I enjoy:<br><br>Designing and programming embedded systems<br><br>Creating custom PCBs<br><br>Modeling and prototyping parts in 3D<br><br>Exploring how AI can enhance robotics, automation, and smart devices<br><br>🔧 Tech interests:<br>Microcontrollers • IoT • Electronics • CAD • Rapid Prototyping • Edge AI<br><br>🚀 Always learning, always building</h3>
 
 ###
 
@@ -44,13 +44,5 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayen877&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayen877/Rayen877/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayen877/Rayen877/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rayen877/Rayen877/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
