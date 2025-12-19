@@ -1,0 +1,23 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:       # allows manual run
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Rayen877   # your GitHub username
+          theme: default
+          output: snake.svg
+
+      - name: Commit snake to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output
+          message: "Update snake"
