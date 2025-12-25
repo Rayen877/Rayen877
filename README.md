@@ -46,8 +46,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?    username=Rayen877&layout=compact&theme=radical&count_private=true&cache_seconds=1"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayen877&layout=compact&theme=radical&count_private=true&cache_seconds=1"
      height="160" alt="languages graph" />
+
 </div>
 
 ###
