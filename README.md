@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi! I'm Rayen Zahzeh<br><br>I’m an embedded engineering student passionate about building things that live in the real world.<br>My work spans embedded systems, PCB design, 3D modeling, and increasingly AI-driven hardware — turning ideas into functional solutions.<br><br>🔧 Tech interests:<br>Microcontrollers • IoT • Electronics • CAD • Rapid Prototyping • Edge AI<br><br>🚀 Always learning, always building
-#
+
 <img align="right" height="240" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ## 🌐 Socials:
