@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👋 Hi! I'm Rayen Zahzeh<br><br>I’m an embedded engineering student passionate about building things that live in the real world.<br>My work spans embedded systems, PCB design, 3D modeling, and increasingly AI-driven hardware — turning ideas into functional solutions.<br><br>🔧 Tech interests:<br>Microcontrollers • IoT • Electronics • CAD • Rapid Prototyping • Edge AI<br><br>🚀 Always learning, always building</h3>
+<h3 align="left">👋 Hi! I'm Rayen Zahzeh<br><br>I’m an embedded engineering student passionate about building things that live in the real world.<br>My work spans embedded systems, PCB design, 3D modeling, and Low-level Programming — turning ideas into functional solutions.<br><br>🔧 Tech interests:<br>Microcontrollers • IoT • Electronics • CAD • Rapid Prototyping <br><br>🚀 Always learning, always building</h3>
 
 ###
 
